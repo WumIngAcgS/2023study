@@ -1,0 +1,3 @@
+﻿  0824.c
+D:\VS202308\0824-toupper\0824-toupper\0824.c(8,2): warning C4013: “toupper”未定义；假设外部返回 int
+  0824-toupper.vcxproj -> D:\VS202308\0824-toupper\x64\Debug\0824-toupper.exe
